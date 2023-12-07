@@ -1,5 +1,6 @@
 # MailParser
 Description
+
 The is usefull for getting mail headers from more than one msg file. There is no limitation of the msg files.
 
 1. Change the configuration file with the right path where you are going to place msg files.
