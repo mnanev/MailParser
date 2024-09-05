@@ -1,9 +1,10 @@
-# MailParser
-📋 Description
+# 📧 MailParser
 
-The is usefull for getting mail headers from more than one msg file. There is no limitation of the msg files.
+### 📋 Description
 
-🚀 How It Works
+The tool is useful for extracting mail headers from multiple `.msg` files. There is no limitation on the number of `.msg` files that can be processed.
 
-1. Change the configuration file with the right path where you are going to place msg files.
-2. Run the MailParserFromMsgFiles.exe and you will receive an ouput with the place when the MessageHeaderData.txt (the file containing all message headers) is located. All message headers from the msg files will be appended in this file.
+### 🚀 How It Works
+
+1. 🛠️ **Update the configuration file** with the correct path where you will place your `.msg` files.
+2. ▶️ **Run `MailParserFromMsgFiles.exe`**, and you will receive an output indicating the location of the `MessageHeaderData.txt` file (containing all extracted message headers). All headers from the `.msg` files will be appended to this file.
